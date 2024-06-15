@@ -1,6 +1,5 @@
 #include<bits/stdc++.h>
 using namespace std;
-
 class Solution{
     public:
     long long int dp[26][10][10]; 
@@ -17,7 +16,6 @@ class Solution{
          long long int r = countSubsequence(n-1,i,j+1,matrix);
          long long int u = countSubsequence(n-1,i-1,j,matrix);
          long long int d = countSubsequence(n-1,i+1,j,matrix);
-         
          return dp[n][i][j]=o+l+r+u+d;
      }
      long long getCount(int n) {
