@@ -6,23 +6,16 @@ using namespace std;
 const int MOD = 1e9+7;
 const int INF = LONG_MAX >> 1;
 void solve(){
-   
-    string s = "abcdefg";
-    string t = "abbcc";
-    // frequency table of t;
-
-    int table[26];
-    memset(table, 0, sizeof(table));
-    for (auto i : t)
-    {
-        table[i - 'a' + 1]++;
+    int n;
+    cin >> n;
+    int arr[n];
+    for (int i = 0; i < n; i++){
+        cin >> arr[i];
     }
+    int target = 7;
 
-    for(auto i:table)
-    {  
-        if(i!=0) 
-        cout << i << endl;
-    }
+    int x = binary_search(arr, target);
+    
 }
 signed main()
 {
