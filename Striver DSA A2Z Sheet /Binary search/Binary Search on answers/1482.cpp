@@ -31,6 +31,7 @@ public:
             mini = min(mini, bloomDay[i]);
         }
 
+
         mini = mini - 1;
         maxi = maxi + 1;
         while ((maxi - mini) > 1) {

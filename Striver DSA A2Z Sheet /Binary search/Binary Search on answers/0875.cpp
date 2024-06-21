@@ -19,6 +19,7 @@ public:
             mini = min(mini, piles[i]);
             maxi = max(maxi, piles[i]);
         }
+        
         int s = 0;
         int e = maxi + 1;
         int k = 0;
