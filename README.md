@@ -1,12 +1,11 @@
 # 🌟 Problem Solving Journey
 
-This repository tracks my progress in solving coding problems. Below is the list of problems I've tackled so far.
+## 📊 Progress
+- Problems Solved: 1/1 (100.0%)
 
-| **#** | **Problem Title** | **Link** |
-|-------|--------------------|----------|
-|-------|--------------------|----------|
-|-------|--------------------|----------|
-| 2 | Search Query Auto Complete | <a href='https://www.geeksforgeeks.org/problems/search-query-auto-complete/0?category[]=Strings&problemStatus=unsolved&difficulty[]=2&page=1&query=category[]StringsproblemStatusunsolveddifficulty[]2page1category[]Str' target='_blank'>View Problem</a> |
-| 4 | Search Query Auto Complete | <a href='https://www.geeksforgeeks.org/problems/search-query-auto-complete/0?category[]=Strings&problemStatus=unsolved&difficulty[]=2&page=1&query=category[]StringsproblemStatusunsolveddifficulty[]2page1category[]Str' target='_blank'>View Problem</a> |
+## 📝 Problems List
+| **#** | **Title** | **Link** | **Status** |
+|-------|-----------|----------|------------|
+| 1 | Search Query Auto Complete | <a href='https://www.geeksforgeeks.org/problems/search-query-auto-complete/0?category[]=Strings&problemStatus=unsolved&difficulty[]=2&page=1&query=category[]StringsproblemStatusunsolveddifficulty[]2page1category[]Str' target='_blank'>View Problem</a> | ✅ Solved |
 
-Happy problem-solving! 🚀
+Last updated: 2025-01-22 19:54
